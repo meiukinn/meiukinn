@@ -30,9 +30,8 @@
 
 ### 🔗 Links
 
-- **Blog / Notes** · [my blog](https://example.com)
-- **Algorithm** · [LeetCode practice](https://leetcode.cn/)
-- **Site** · [personal site](https://example.com)
+- **Blog / Notes** · [red_note](https://www.xiaohongshu.com/user/profile/5e4d023600000000010047dd)
+- **Site** · [personal site](http://meiukinn.com/)
 
 ### 🛠️ Tech Stack
 
