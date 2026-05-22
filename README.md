@@ -39,7 +39,7 @@
 </div>
 
 
-### 🐍 Watch the snake eat my contributions
+### 🐍 Watch my zodiac sign eat my contributions
 
 <div align="center">
   <picture>
