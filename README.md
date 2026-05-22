@@ -1,12 +1,12 @@
-<!-- ===== 顶部波浪横幅 ===== -->
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20meiukinn&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Through%20Challenges&descAlignY=58&descSize=18" />
 </div>
 
-<!-- ===== 打字机动画 ===== -->
+
 <div align="center">
   <a href="https://github.com/meiukinn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Recreational+coder+%26+open+source+enthusiast;Interested+in+HCI+%F0%9F%96%B1%EF%B8%8F;Python+%7C+OpenCV+%7C+Docker+%7C+MySQL;Building+Through+Challenges+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Marketing+%E2%86%92+Computer+Science;Interested+in+HCI+%F0%9F%96%B1%EF%B8%8F;Bridging+marketing+and+tech;Building+Through+Challenges+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
@@ -37,7 +37,7 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=meiukinn&bg_color=1a1b27&color=8B5CF6&line=8B5CF6&point=ffffff&area=true&hide_border=true" alt="activity graph" />
 </div>
 
-<!-- ===== 贪吃蛇吃贡献格 (需要配合 GitHub Action，见下方说明) ===== -->
+
 ### 🐍 Watch the snake eat my contributions
 
 <div align="center">
