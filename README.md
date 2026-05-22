@@ -5,11 +5,9 @@
 
 
 <div align="center">
-
-### Marketing & Computer Science | HCI
-
-#### Bridging human insight with technology · Building Through Challenges
-
+  <a href="https://github.com/meiukinn">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+meiukinn.+Marketing+%26+Computer+Science+%7C+Creative+Builder" alt="Title" />
+  </a>
 </div>
 
 ---
@@ -22,10 +20,11 @@
 - 🌍 I'm grateful to live in an open-source world. I love VS Code. TvT
 - 🤝 Happy to contribute for free to fun projects & ideas — feel free to reach out!
 
-### 🔗 Links
+### 🤝 Find Me
 
 [![小红书](https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e4d023600000000010047dd)
-[![Personal Site](https://img.shields.io/badge/Personal_Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://meiukinn.com/)
+[![BLOG](https://img.shields.io/badge/Personal_Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://meiukinn.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meiukinn1024@gmail.com)
 
 ### 🛠️ Tech Stack
 
