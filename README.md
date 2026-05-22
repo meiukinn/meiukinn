@@ -1,6 +1,6 @@
 <!-- ===== 顶部波浪横幅 ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20meiukinn&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=code%20weaves%20world&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there!%20I'm%20meiukinn&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Through%20Challenges&descAlignY=58&descSize=18" />
 </div>
 
 <!-- ===== 打字机动画 ===== -->
@@ -14,8 +14,8 @@
 
 ### 👩‍💻 About Me
 
-- 🌱 Born 12-08-2001 — a recreational coder & open source enthusiast.
-- 🖱️ Deeply curious about **HCI (Human–Computer Interaction)** — how people and machines meet.
+- 🎯 Marketing background, now pivoting into **Computer Science & HCI**.
+- 🔗 Passionate about bridging **marketing and CS** — where people, products and tech meet.
 - 👁️ Tinkering with **computer vision** (OpenCV) and shipping things in **Docker**.
 - 🌍 I'm grateful to live in an open-source world. I love VS Code. TvT
 - 🤝 Happy to contribute for free to fun projects & ideas — feel free to reach out!
@@ -51,5 +51,5 @@
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=The%20mission%20of%20learning%20is%20to%20understand%20various%20designs&fontSize=16&fontColor=ffffff&fontAlignY=70" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=text=Build.%20Learn.%20Grow.&fontSize=16&fontColor=ffffff&fontAlignY=70" />
 </div>
