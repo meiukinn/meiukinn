@@ -30,7 +30,7 @@
 
 ### 🔗 Links
 
-- **Blog / Notes** · [red_note](https://www.xiaohongshu.com/user/profile/5e4d023600000000010047dd)
+- **Blog / Notes** · [小红书](https://www.xiaohongshu.com/user/profile/5e4d023600000000010047dd)
 - **Site** · [personal site](http://meiukinn.com/)
 
 ### 🛠️ Tech Stack
