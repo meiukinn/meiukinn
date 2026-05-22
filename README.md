@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/meiukinn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=false&width=800&height=60&lines=Hi%2C+I'm+meiukinn.+Marketing+%26+Computer+Science+%7C+Creative+Builder" alt="Title" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=false&width=700&height=50&lines=Marketing+%26+Computer+Science+%7C+Creative+Builder" alt="Title" />
   </a>
 </div>
 
