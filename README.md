@@ -5,9 +5,11 @@
 
 
 <div align="center">
-  <a href="https://github.com/meiukinn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&repeat=false&lines=Marketing+%E2%86%92+Computer+Science;Interested+in+HCI+%F0%9F%96%B1%EF%B8%8F;Bridging+marketing+and+tech;Building+Through+Challenges+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+
+### Marketing & Computer Science | HCI
+
+#### Bridging human insight with technology · Building Through Challenges
+
 </div>
 
 ---
