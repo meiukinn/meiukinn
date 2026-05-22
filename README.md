@@ -22,32 +22,15 @@
 
 ### 🔗 Links
 
-<p>
-  <a href="https://www.xiaohongshu.com/user/profile/5e4d023600000000010047dd" target="_blank">
-    <img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="小红书" />
-  </a>
-  <a href="http://meiukinn.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Personal_Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Personal Site" />
-  </a>
-</p>
+[![小红书](https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e4d023600000000010047dd)
+[![Personal Site](https://img.shields.io/badge/Personal_Site-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](http://meiukinn.com/)
 
 ### 🛠️ Tech Stack
 
-<p>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://www.mysql.com" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://opencv.org" target="_blank">
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  </a>
-</p>
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 ### 📈 Contribution Graph
 
 <div align="center">
