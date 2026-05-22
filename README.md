@@ -6,7 +6,7 @@
 <!-- ===== 打字机动画 ===== -->
 <div align="center">
   <a href="https://github.com/meiukinn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Recreational+coder+%26+open+source+enthusiast;Interested+in+HCI+%F0%9F%96%B1%EF%B8%8F;Python+%7C+OpenCV+%7C+Docker+%7C+MySQL;code+weaves+world+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Recreational+coder+%26+open+source+enthusiast;Interested+in+HCI+%F0%9F%96%B1%EF%B8%8F;Python+%7C+OpenCV+%7C+Docker+%7C+MySQL;Building+Through+Challenges+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </div>
 
