@@ -40,7 +40,7 @@
 </div>
 
 
-### 🐍 Watch my zodiac sign eat my contributions
+### 🐍
 
 <div align="center">
   <picture>
