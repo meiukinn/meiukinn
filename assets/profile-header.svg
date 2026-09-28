@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="200" viewBox="0 0 960 200" role="img" aria-labelledby="title desc">
+  <title id="title">MEIUKINN</title>
+  <desc id="desc">A static dark developer-console banner with orange accents.</desc>
+  <rect x="0.5" y="0.5" width="959" height="199" rx="4" fill="#0D1117" stroke="#30363D"/>
+  <path d="M1 1h6v198H1z" fill="#FF5A36"/>
+  <path d="M40 32h40M40 32v16M920 32h-40M920 32v16M40 168h40M40 168v-16M920 168h-40M920 168v-16" fill="none" stroke="#8B949E" stroke-opacity="0.5"/>
+  <text x="62" y="124" fill="#E6EDF3" font-family="Consolas, 'Liberation Mono', monospace" font-size="68" font-weight="700" letter-spacing="4">MEIUKINN</text>
+  <path d="M752 122l24-44M782 122l24-44M812 122l24-44" fill="none" stroke="#FF5A36" stroke-width="6"/>
+  <path d="M62 148h108" fill="none" stroke="#FF5A36" stroke-width="2"/>
+</svg>
